@@ -1,0 +1,11 @@
+CLinkedList is a Circular Linked List 
+
+
+it has no concept of beginning or end it always just is 
+
+
+can implement using sigularly linked list under the hood 
+
+OR 
+
+can implement using Doubly linked list under the hood
